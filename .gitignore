@@ -1,4 +1,7 @@
 .DS_Store
 *.o
+*.bin
+sandboxd
 extract_sbops/extract_sbops
+extract_sbprofiles/extract_sbprofiles
 
