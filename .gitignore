@@ -4,4 +4,5 @@
 sandboxd
 extract_sbops/extract_sbops
 extract_sbprofiles/extract_sbprofiles
+compile_sb/compile_sb
 
