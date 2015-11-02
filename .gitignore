@@ -1,6 +1,7 @@
 .DS_Store
 *.o
 *.bin
+*.pyc
 sandboxd
 extract_sbops/extract_sbops
 extract_sbprofiles/extract_sbprofiles
